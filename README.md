@@ -18,22 +18,6 @@ do usuário é totalmente até você.
 
 Aqui está a organização dos arquivos e diretórios do projeto:
 
-📁 htdocs/                  # Diretório raiz do frontend 
-├── 📁 css/                 # Estilos CSS
-│   └── 📄 styles.css       # Arquivo de estilização do frontend
-├── 📁 js/                  # Scripts JavaScript
-│   └── 📄 scripts.js       # Lógica do frontend
-└── 📄 index.php            # Arquivo principal do frontend (PHP + HTML)
-
-📁 api/                     # Diretório raiz da API (api.cdcgyn.com)
-├── 📁 config/             # Configurações
-│   └── 📄 database.php    # Configuração da conexão com o banco de dados
-├── 📁 models/             # Modelos de dados
-│   ├── 📄 Pessoa.php      # Classe Pessoa (suposta, baseada no uso)
-│   └── 📄 Contato.php     # Classe Contato com métodos CRUD
-└── 📄 index.php           # Arquivo principal da API (rotas)
-
-
 
 
 ![image](https://github.com/user-attachments/assets/3e808a46-0e2a-4f25-ac7c-943630ce37bb)
