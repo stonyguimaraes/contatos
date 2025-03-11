@@ -21,8 +21,6 @@ do usuário é totalmente até você.
     
     /contatos/{id}: Gerencia contatos específicos.
 
-1. Listar Todas as Pessoas
-
 
 
 # Estrutura de Pastas do Projeto
