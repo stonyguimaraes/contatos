@@ -14,6 +14,17 @@ do usuário é totalmente até você.
 - API: http://api.cdcgyn.com/api/
 - Front-end: http://api.cdcgyn.com/
 
+  ### Rotas principais:
+    /pessoas: Gerencia pessoas.
+    
+    /pessoas/{id}: Gerencia uma pessoa específica.
+    
+    /contatos/{id}: Gerencia contatos específicos.
+
+1. Listar Todas as Pessoas
+
+
+
 # Estrutura de Pastas do Projeto
 
 Aqui está a organização dos arquivos e diretórios do projeto:
