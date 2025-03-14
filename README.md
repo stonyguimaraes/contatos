@@ -19,8 +19,6 @@ exclua as pessoas e os contatos.
 Crie um aplicativo Web que explore a API criada na segunda atribuição. O design da interface
 do usuário é totalmente até você.
 
-- API: http://api.cdcgyn.com/api/
-- Front-end: http://api.cdcgyn.com/
 
   ### Rotas principais:
     /pessoas: Gerencia pessoas.
